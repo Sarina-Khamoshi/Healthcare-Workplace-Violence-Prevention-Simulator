@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Menu/Menu_Main.unity
+    guid: 77b59a743a890ce4dac3ee994aa8db25
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Videos/VideoScenePlayer/PushHosp.unity
+    guid: 29d2c57424f985046a06775cb8ddd936
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Videos/VideoScenePlayer/PunchBodyHosp.unity
+    guid: 7a2d7e5ced30b1545a8ae96aef8f8c76
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Videos/VideoScenePlayer/PunchFaceHosp.unity
+    guid: 0ce166593dba3e14a84f3f309f5098e0
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Videos/VideoScenePlayer/SlapHosp.unity
+    guid: edb60b0464b6ab64383009f522a7613f
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Videos/VideoScenePlayer/WristGrabHosp.unity
+    guid: 670e8f7d67206e242b1d74ffa583243e
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Menu/Training_Simulation.unity
+    guid: 6b1df8d90aa6e044390769b2da03e24a
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Menu/Choose_Action_Training.unity
+    guid: 848103fc142d43146ac3d0dbea9b3628
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Menu/PunchingTask.unity
+    guid: dd035bf7db835654f8424a6a879a3ab7
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Menu/SlapTask.unity
+    guid: 7a3fda4c3a2543640a7816a8a5cdbc40
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Menu/PushingTask.unity
+    guid: e74666cfc1b8f294c934738c9e5b474a
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Menu/PunchBodyTask.unity
+    guid: 426ec3b933308444fa2ae5bee8aed6e2
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Menu/GrabWristTask.unity
+    guid: c6dd3f4af3408c249975a4afcd3974b7
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Videos/VideoScenePlayer/PunchBody_Train.unity
+    guid: bfa8143a8351538468ffee7e486db698
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Videos/VideoScenePlayer/PunchFace_Train.unity
+    guid: c74d07a2652b7bd4c97948df4c192d22
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Videos/VideoScenePlayer/PushTrain.unity
+    guid: 013f597f7e4eb2c47b2a30af39429799
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Videos/VideoScenePlayer/SlapTrain.unity
+    guid: ecfb84393a5052e44bb615951d53a2dd
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Videos/VideoScenePlayer/WristGrabTrain.unity
+    guid: f699702bb2ad7f745b59c28336dc3787
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Punching/PunchingScene.unity
+    guid: ad4ccfd3f4280874caac141a2e962255
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Collar/CollarScene.unity
+    guid: f494b0a023cc7e24db4e2ca7d63b43ea
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Shoving/ShovingScene.unity
+    guid: 872e6d87085831a4d95a2a591cdf8618
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Slapping/SlappingScene.unity
+    guid: f4fbe1a886f508445b1e931c3d8d9885
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Wrist/WristScene.unity
+    guid: 242291da1d95643438b9ecc5b7690c1d
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Punching/PunchingSceneTest.unity
+    guid: a942147562114ec43be53a4f505f43cd
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Shoving/ShovingSceneTest.unity
+    guid: 4f63a34ca017aa049b555e58ae99e33d
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Slapping/SlappingSceneTest.unity
+    guid: 5f9f5da6a269141eab7b61c6c12fa341
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Wrist/WristSceneTest.unity
+    guid: 7eac6384bd83e41b28757437007e231d
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Collar/CollarSceneTest.unity
+    guid: a3568bb13d9954c4f80302b258a7d0d0
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a2bd825190dd8e248b96fdec641388a9, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 5d876107d8831524f8b1e89a3d975008, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ceb53d068f025674b9e4af084df37a11, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 85004250dd0c50e4d8d15467bfa4d4ba, type: 2}
